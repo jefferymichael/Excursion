@@ -1,0 +1,46 @@
+html {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+a:link {
+   color:inherit;
+}
+
+.discover {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.excursion {
+  color: gray;
+  text-size: 21px;
+}
+
+.subs {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
+
+#video {
+  text-align: center;
+  font-size: 200px;
+}
